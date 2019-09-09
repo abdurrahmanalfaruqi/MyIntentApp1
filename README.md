@@ -7,5 +7,5 @@ memindahkan activity dengan objek
 dan di projek ini saya menggunakan widget;
 button 
 case
-
+https://i.imgur.com/lBY5EKd.png
 
